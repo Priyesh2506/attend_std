@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/attend_std/static/js/3.5d65379c.chunk.js"
   },
   {
-    "revision": "722185d71d64308bcafa0766735c64b5",
+    "revision": "531317ca86a56aa9e061b8027652de12",
     "url": "/attend_std/index.html"
   }
 ];
